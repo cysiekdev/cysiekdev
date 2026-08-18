@@ -7,5 +7,8 @@ print("fuck your anti cheats, gonna be undetected till I die.")
 
 > Want me to help you with your project? Dm me on discord: cysiekdev
 
+> [!CAUTION]
+> **Educational Purposes Only:**  
+> All repositories, scripts, and memory manipulation tools hosted on this account are created solely for reverse engineering research and educational demonstrations. Use at your own risk.
 
 
