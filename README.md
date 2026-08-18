@@ -1,25 +1,4 @@
-```text
- ________      ___    ___ ________  ___  _______   ___  __    ________  _______   ___      ___ 
-|\   ____\    |\  \  /  /|\   ____\|\  \|\  ___ \ |\  \|\  \ |\   ___ \|\  ___ \ |\  \    /  /|
-\ \  \___|    \ \  \/  / | \  \___|\ \  \ \   __/|\ \  \/  /|\ \  \_|\ \ \   __/|\ \  \  /  / /
- \ \  \        \ \    / / \ \_____  \ \  \ \  \_|/_\ \   ___  \ \  \ \\ \ \  \_|/_\ \  \/  / / 
-  \ \  \____    \/   / /   \|____|\  \ \  \ \  \_|\ \ \  \\ \  \ \  \_\\ \ \  \_|\ \ \    / /  
-   \ \_______\__/   / /      ____\_\  \ \__\ \_______\ \__\\ \__\ \_______\ \_______\ \__/ /   
-    \|_______|\____/ /      |\_________\|__|\|_______|\|__| \|__|\|_______|\|_______|\|__|/    
-             \|____|/       \|_________|                                                       
-```
+<img width="2000" height="700" alt="Frame 1" src="https://github.com/user-attachments/assets/e25d9519-15d8-4d6e-a35a-86df8f7fd53c" />
 
-> [!WARNING]
-> Cheating is a choice, if you cheat once, you will do it multiple times.
-
-```python
-print("fuck your anti cheats, gonna be undetected till I die.")
-```
-
-> Want me to help you with your project? Dm me on discord: cysiekdev
-
-> [!CAUTION]
-> **Educational Purposes Only:**  
-> All repositories, scripts, and memory manipulation tools hosted on this account are created solely for reverse engineering research and educational demonstrations. Use at your own risk.
 
 
